@@ -3,13 +3,13 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.citronium.lineaprocdv"
+    id="opusno111-cordova-plugin-lineabarcode"
     version="0.1">
     <name>LineaProCDV</name>
     <description>LineaProCDV</description>
     <license>MIT</license>
     <keywords>lineapro,citronium</keywords>
-    <repo>https://github.com/ttatarinov/lineapro-phonegap-plugin.git</repo>
+    <repo>https://github.com/opusno111/lineapro-phonegap-plugin.git</repo>
     <issue></issue>
     
     <js-module src="www/LineaProCDV.js" name="LineaProCDV">
