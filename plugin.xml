@@ -26,14 +26,7 @@
         
         <header-file src="src/ios/LineaProCDV.h" />
         <header-file src="src/ios/DTDevices.h" />
-        <source-file src="src/ios/LineaProCDV.m" />
-        
-        <source-file src="src/ios/libdtdev.a" framework="true" compiler-flags="-fno-objc-arc"/>
-        
-        <framework src="ExternalAccessory.framework" />
-        <framework src="AudioToolbox.framework" />
-        <framework src="MediaPlayer.framework" />
-        
+        <source-file src="src/ios/LineaProCDV.m" />        
         
         <config-file target="*-Info.plist" parent="UISupportedExternalAccessoryProtocols">
           <array>
