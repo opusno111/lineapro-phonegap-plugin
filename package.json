@@ -20,12 +20,12 @@
       "cordova-ios",
       "linea"
     ],
-    "engines": [
+    "engines":
       {
         "name": "cordova",
         "version": ">=3.0.0"
       }
-    ],
+    ,
     "author": "Andrew Martin",
     "license": "MIT"
   }
